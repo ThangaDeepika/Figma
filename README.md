@@ -1,4 +1,4 @@
-# Ex09 Event Registration Web Application
+# Ex-09 Event Registration Web Application
 ## Date:
 
 ## AIM:
@@ -43,17 +43,7 @@ Figma
 <div style="position: absolute; top: 332px; left: 124px; color: #000000;">CELANZA’25</div>
 <div style="position: absolute; top: 22px; left: 16px; width: 353px; height: 53px; background-image: url('getBytesAsync'); background-size: cover;"></div>
 <div style="position: absolute; top: 143px; left: 109px; color: #000000;">CELANZA EVENTS</div>
-
-<div style="position: absolute; top: 247px; left: 80px; color: #000000;">SOLO SINGING
-</div>
-
-
-
-
-
-
-
-
+<div style="position: absolute; top: 247px; left: 80px; color: #000000;">SOLO SINGING</div>
 <div style="position: absolute; top: 305px; left: 80px; color: #000000;">SOLO DANCING</div>
 <div style="position: absolute; top: 359px; left: 80px; color: #000000;">SPORTS</div>
 <div style="position: absolute; top: 414px; left: 82px; color: #000000;">FLASHMOB</div>
